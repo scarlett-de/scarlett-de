@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Yitian(Scarlett) — Data Engineer
 
-Welcome to my GitHub! I'm a data engineer with a strong foundation in building reliable, scalable, and production-grade data pipelines. I focus on transforming raw data into actionable insights using cloud platforms, open-source tools, and automation.
+I'm a Data Engineer passionate about building reliable, scalable, and production-grade data pipelines. I specialize in transforming raw data into actionable insights using cloud platforms, open-source tools, and automation.
 
----
-
-## 🚀 What I Do
-
-- 💡 Design and build end-to-end data pipelines (batch & streaming)
-- 🏗️ Transform raw data into structured analytics models with **dbt**
-- ☁️ Deploy scalable infrastructure with **Terraform** on **GCP**
-- 🐘 Work with databases like **PostgreSQL**, **BigQuery**, and **Parquet**
-- 📊 Prepare data for analysis and dashboards using **SQL**, **Python**, and **dbt**
+- I design and build end-to-end pipelines (batch & streaming)
+-  Develop analytics-ready models with dbt
+-  Deploy infrastructure with Terraform on GCP
+-  Work with databases like PostgreSQL, BigQuery, and Parquet
+-  Prepare data for dashboards using SQL, Python, and dbt
 
 ---
 
