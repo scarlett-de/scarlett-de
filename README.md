@@ -38,7 +38,7 @@ I'm a Data Engineer passionate about building reliable, scalable, and production
 ## 📫 Get in Touch
 
 - 📧 Email: ytwyolo66@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/yitian-w-de)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yitian-w-de)
 
 ---
 
