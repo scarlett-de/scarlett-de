@@ -32,8 +32,9 @@ Welcome to my GitHub! I'm a data engineer with a strong foundation in building r
 | [NYC Taxi GCP Pipeline](https://github.com/scarlett-de/nyc-taxi-gcp-pipeline) | dbt, BigQuery, GCS, Terraform | Ingests Yellow Taxi data, stores in GCS, transforms in dbt, and queries in BQ |
 | [Local Green Taxi Pipeline](https://github.com/scarlett-de/local-green-taxi-pipeline) | Docker, PostgreSQL | Full pipeline to load, store, and query NYC Green Taxi data locally |
 | [Streaming with PyFlink](https://github.com/scarlett-de/kafka-streaming-pipeline) | Kafka (Redpanda), PyFlink | Real-time processing pipeline with stream joins and transformations |
+| 🔧 More projects coming soon... | 🚧 | I'm actively building more pipelines and tools — stay tuned! |
 
----
+--- 
 
 ## 📫 Get in Touch
 
