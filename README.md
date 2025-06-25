@@ -16,12 +16,15 @@ Welcome to my GitHub! I'm a data engineer with a strong foundation in building r
 
 ## 🛠️ Tech Stack
 
-| Category         | Tools / Skills |
-|------------------|----------------|
-| **Languages**    | Python, SQL, Bash |
-| **Cloud & Infra**| GCP, Terraform, Docker |
-| **Data Tools**   | dbt, Airflow, BigQuery, PostgreSQL, Kafka (Redpanda), PyFlink |
-| **Workflow**     | Git, CI/CD, VS Code, Jupyter |
+| Category          | Tools / Skills                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------- |
+| **Languages**     | Python, SQL, PySpark, Bash                                                            |
+| **Cloud & Infra** | GCP, Azure, Terraform, Docker                                                         |
+| **Data Tools**    | dbt, Airflow, BigQuery, PostgreSQL, Redshift, Kafka (Redpanda), PyFlink, Apache Spark |
+| **Workflow**      | Git, CI/CD (GitHub, Jenkins), VS Code, Jupyter                                        |
+| **Visualization** | Power BI, Tableau                                                                     |
+| **Concepts**      | Data Lakehouse, Data Warehousing, Dimensional Modeling, Data Governance               |
+
 
 ---
 
