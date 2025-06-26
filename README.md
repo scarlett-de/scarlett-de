@@ -30,7 +30,7 @@ I'm a Data Engineer passionate about building reliable, scalable, and production
 |-----------|---------------|----------------|
 | [Local Green Taxi Pipeline](https://github.com/scarlett-de/green-taxi-data-pipeline) | Docker, PostgreSQL | Full pipeline to load, store, and query NYC Green Taxi data locally |
 | [NYC Taxi GCP Pipeline](https://github.com/scarlett-de/yellow-taxi-data-gcp-pipeline) | dbt, BigQuery, GCS, Terraform | Ingests Yellow Taxi data, stores in GCS, transforms in dbt, and queries in BQ |
-| [NYC Taxi dbt Modeling] (https://github.com/scarlett-de/taxi-data-dbt) |dbt, BigQuery, Jinja, Seeds, Macros | Transforms cleaned NYC taxi trip data into dimensional models with analytics-ready fact and dimension tables
+| [NYC Taxi dbt Modeling](https://github.com/scarlett-de/taxi-data-dbt) |dbt, BigQuery, Jinja, Seeds, Macros | Transforms cleaned NYC taxi trip data into dimensional models with analytics-ready fact and dimension tables
 
 | 🔧 More projects coming soon... | 🚧 | I'm actively building more pipelines and tools — stay tuned! |
 
