@@ -34,7 +34,9 @@ I'm a Data Engineer passionate about building reliable, scalable, and production
 | [NYC Airbnb Data Pipeline](https://github.com/scarlett-de/nyc-airbnb-project/tree/main/project) |Terraform, GCP, BigQuery, dbt, Airflow, Docker, Looker Studio| End-to-end analytics pipeline using Kaggle Airbnb data: loads raw data to GCS, transforms with dbt,orchestrates workflows with Airflow, visualizes with Looker Studio|
 
 | 🔧 More projects coming soon... | 🚧 | I'm actively building more pipelines and tools — stay tuned! 
+
 📝 Note: Some of these projects were inspired by topics and workflows from the excellent Data Engineering Zoomcamp by DataTalksClub. While the course helped shape the initial direction, all projects were implemented independently, with custom enhancements and additions beyond the original material.
+
 --- 
 
 ## 📫 Get in Touch
